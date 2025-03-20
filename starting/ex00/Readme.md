@@ -5,3 +5,6 @@ For Print in Python,  you can see it in these link :
 
 after you see both links. now you have basic knowledge about types and Print built-in function,
 you should practice using this types and Printf function to have basic knowledge about python
+
+more rescuers :
+https://docs.python.org/3/tutorial/datastructures.html#sets
