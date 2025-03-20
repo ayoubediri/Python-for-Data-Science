@@ -7,4 +7,4 @@ after you see both links. now you have basic knowledge about types and Print bui
 you should practice using this types and Printf function to have basic knowledge about python
 
 more rescuers :
-https://docs.python.org/3/tutorial/datastructures.html#sets
+https://docs.python.org/3/tutorial/datastructures.html
