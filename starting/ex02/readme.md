@@ -43,7 +43,6 @@ This guide provides a concise yet comprehensive overview of functions in Python,
    * [5.4. `__call__()` Method for Instances](#54-__call__-method-for-instances)
    * [5.5. `inspect` Module Overview](#55-inspect-module-overview)
    * [5.6. Memoization with `functools.lru_cache`](#56-memoization-with-functoolslru_cache)
-6. [📜 License](#-license)
 
 ---
 
