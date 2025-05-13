@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='adiri',
     author_email='adiri@student.1337.ma',
-    url='https://github.com/eagle/ft_package',
+    url='https://github.com/ayoubediri/Python-for-Data-Science/tree/main/starting/ex09/ft_package',
     license='MIT',
     classifiers=[
         'Programming Language :: Python :: 3',
