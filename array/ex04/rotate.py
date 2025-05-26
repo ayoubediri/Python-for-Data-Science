@@ -2,7 +2,8 @@ from load_image import ft_load
 from PIL import Image
 import numpy as np
 
-def ft_rotate(path : str) :
+
+def ft_rotate(path: str):
     img = ft_load(path)
     img = img[-600:-200, -500:-100]
     image = Image.fromarray(img)
@@ -17,5 +18,6 @@ def ft_rotate(path : str) :
     print(image_array)
     image.show()
 
-if __name__ == "__main__" :
+
+if __name__ == "__main__":
     ft_rotate("animal.jpeg")

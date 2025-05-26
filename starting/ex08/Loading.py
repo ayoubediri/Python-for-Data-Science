@@ -10,7 +10,7 @@ bar_dict = {
     7 : "█",
 }
 
-def ft_print_progres(current: int, total: int, width: int = 172) -> str:
+def ft_print_progres(current: int, total: int, width: int = 80) -> str:
     percent = current / total
     addtion = 100 - (percent * 100)
     total_blocks = width * 8 
